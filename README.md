@@ -6,7 +6,7 @@ Página web feita para explorar funcionalidades do CSS
 | -------------  | --- |
 | :sparkles: Nome        | **Fruta & Fruto**
 | :label: Tecnologias | html, CSS 
-| :rocket: URL         | https://url-deploy.com.br
+| :rocket: URL         | [https://url-deploy.com.br](https://leoceretta.github.io/Fruta-e-fruto/)
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 ![Capturar](https://github.com/LeoCeretta/Fruta-e-fruto/assets/74743013/283b1d4b-bd00-4b37-98cd-e8ab174b3581#vitrinedev)
