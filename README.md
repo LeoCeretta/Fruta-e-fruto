@@ -2,7 +2,7 @@
 
 Página web feita para explorar funcionalidades do CSS 
 
-| :placard: Vitrine.Dev |     |
+| :placard: Vitrine.Dev |  https://cursos.alura.com.br/vitrinedev/leoceretta   |
 | -------------  | --- |
 | :sparkles: Nome        | **Fruta & Fruto**
 | :label: Tecnologias | html, CSS 
